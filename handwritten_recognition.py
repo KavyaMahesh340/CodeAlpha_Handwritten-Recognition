@@ -1,11 +1,4 @@
-"""
-Handwritten Character Recognition - CodeAlpha ML Internship Task 3
-Author: [Your Name]
-Date: December 2025
 
-This script implements handwritten digit and character recognition using CNNs
-on MNIST and EMNIST datasets with image processing and deep learning.
-"""
 
 import numpy as np
 import pandas as pd
